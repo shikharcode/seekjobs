@@ -1,0 +1,6 @@
+{
+  "name": "Bengaluru Senior SWE Job Dispatcher",
+  "description": "Automated job scanner, instant 1-click recruiter email dispatcher, and resume matching engine tailored for IIT Kharagpur 6+ YOE Senior Software Engineer in Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
